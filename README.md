@@ -15,4 +15,5 @@ mismo resultado.
 
 ##1.5 algoritmos cotidianos
 ##Definicion de lenguajes algortitmicos
-![](https://2.bp.blogspot.com/-xOUfufs3tBs/WKBylqrKSBI/AAAAAAAAA5c/cG7osJm_DG4fAmgE0g6XePSgnJqAmc_qACLcB/s1600/article-2168112-13E710FE000005DC-265_964x678.jpg)
+![]()
+ 
